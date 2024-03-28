@@ -24,8 +24,10 @@
 </a>
 
 💡 Pham Hieu liem from Ho Chi Minh City, Viet Nam
+ベトナム、ホーチミン市 から　来ました。
 
-🎂 Born on 30/11/2001
+🎂 Born on November 30th, 2001
+2001年11月30日生まれ
 
 👨‍💻 Backend Developer, Java enthusiast, AI Engineer
 
@@ -34,6 +36,7 @@
 🌱 Tech enthusiast, always exploring new technology
 
 🎬 Hobbies - Anime, Science fiction, Piano, Guitar, Soft Ballad Band
+趣味 - アニメ、SF、ピアノ、ギター、ソフトバラードバンド
 
 
 
